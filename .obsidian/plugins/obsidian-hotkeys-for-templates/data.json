@@ -1,0 +1,15 @@
+{
+  "files": [
+    "Callout.md",
+    "Primer.md",
+    "5title.md",
+    "CustomSpanEnd.md",
+    "BetterTablesBeginSpan.md",
+    "MarginNoteBeginSpan.md",
+    "Dokaz.md"
+  ],
+  "templaterFiles": [],
+  "newFileTemplates": [],
+  "openNewFileTemplateInNewPane": true,
+  "useNewFileTemplateOnFileCreation": false
+}

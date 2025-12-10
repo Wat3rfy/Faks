@@ -1,0 +1,2 @@
+select ProductName from products p natural join orderdetails od natural join orders o
+where p.UnitPrice < (select AVG(UnitPrice) from products p1) AND

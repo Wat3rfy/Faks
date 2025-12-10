@@ -1,0 +1,87 @@
+.callout[data-callout=""]{
+
+    --callout-color: --color-base-00;
+    
+}
+.callout .callout-icon {
+  display: none;
+}
+
+.callout .callout-title {
+    color: rgb(#DADADA);
+    justify-content: center;
+    height: 40px;
+    padding-top: 9px;
+}
+
+
+.callout:is([data-callout-metadata^="txt"]){
+  background-color: #33333300 !important;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 12%;
+  padding-right: 12%;
+  position: relative;
+  border-radius: 10px !important;
+} 
+
+.callout:is([data-callout-metadata^="npr"]){
+  border-color: #6CEE99 !important;
+  border-width: 2px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 12%;
+  padding-right: 12%;
+  position: relative;
+  border-radius: 10px !important;
+  background-color: black;
+  
+} 
+
+
+
+
+.callout{
+  background-color: #ffffff04;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 12%;
+  padding-right: 12%;
+  position: relative;
+  border-radius: 10px !important;
+} 
+
+.callout{
+  & > div > ul > li {
+    background-color: #00000000 !important;
+    left: 0px !important;
+    padding-left: 4px;
+    padding-right: 0px;
+  } 
+  & > div > ol > li {
+    background-color: #00000000 !important;
+    left: 0px !important;
+    padding-left: 4px;
+    padding-right: 0px;
+  } 
+  
+}
+/*
+.callout:is([class="callout is-collapsible"]) .callout-title-inner {
+  
+}
+  --callout-color: 130,130,130;
+
+.callout-title{
+ justify-content: center;
+}
+.callout-fold{
+  display: none;
+}
+  
+.callout:is([data-callout-metadata^="noicon"]) .callout-icon {
+    display: none;
+}
+
+
+*/

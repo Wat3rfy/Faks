@@ -1,0 +1,19 @@
+{
+  "accentColor": "#6bef9a",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Times New Roman,Bahnschrift,CMU Serif,Latin Modern Roman 10",
+  "translucency": false,
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "callouts",
+    "folderColor",
+    "greekfont",
+    "headings",
+    "img",
+    "margintxt",
+    "PDFExport",
+    "size",
+    "mathCSS"
+  ]
+}

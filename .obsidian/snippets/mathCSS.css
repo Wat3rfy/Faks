@@ -1,0 +1,149 @@
+mjx-c[class="mjx-c1D6FC TEX-I"],
+mjx-c[class="mjx-c1D6FD TEX-I"],
+mjx-c[class="mjx-c1D6FE TEX-I"],
+mjx-c[class="mjx-c1D6FF TEX-I"],
+mjx-c[class="mjx-c1D716 TEX-I"],
+mjx-c[class="mjx-c1D701 TEX-I"],
+mjx-c[class="mjx-c1D702 TEX-I"],
+mjx-c[class="mjx-c1D703 TEX-I"],
+mjx-c[class="mjx-c1D704 TEX-I"],
+mjx-c[class="mjx-c1D705 TEX-I"],
+mjx-c[class="mjx-c1D706 TEX-I"],
+mjx-c[class="mjx-c1D707 TEX-I"],
+mjx-c[class="mjx-c1D708 TEX-I"],
+mjx-c[class="mjx-c1D709 TEX-I"],
+mjx-c[class="mjx-c1D70A TEX-I"],
+mjx-c[class="mjx-c1D70B TEX-I"],
+mjx-c[class="mjx-c1D70C TEX-I"],
+mjx-c[class="mjx-c1D70E TEX-I"],
+mjx-c[class="mjx-c1D70F TEX-I"],
+mjx-c[class="mjx-c1D710 TEX-I"],
+mjx-c[class="mjx-c1D719 TEX-I"],
+mjx-c[class="mjx-c1D712 TEX-I"],
+mjx-c[class="mjx-c1D713 TEX-I"],
+mjx-c[class="mjx-c1D714 TEX-I"],
+mjx-c[class="mjx-c1D717 TEX-I"],
+mjx-c[class="mjx-c1D711 TEX-I"],
+mjx-c[class="mjx-c1D71B TEX-I"],
+mjx-c[class="mjx-c1D718 TEX-A"],
+mjx-c[class="mjx-c1D71A TEX-I"],
+mjx-c[class="mjx-c1D700 TEX-I"]
+{
+    font-family: 'Latin Modern Roman 10'  !important;
+    font-style:italic !important;
+}
+/* greek letters ^*/
+
+
+/* all paranthesis*/
+.mjx-c5B,
+.mjx-c5D,
+.mjx-c27E8,
+.mjx-c27E9,
+.mjx-c2016,
+.mjx-c2216,
+.mjx-c21D2,
+.mjx-c2192,
+.mjx-c21D4,
+.mjx-c2194,
+.mjx-c27EE,
+.mjx-c27EF,
+.mjx-c230A,
+.mjx-c230B,
+.mjx-c231C,
+.mjx-c231D,
+.mjx-c231F,
+.mjx-c231E,
+.mjx-c2308,
+.mjx-c2309 {
+    margin-right: 3px;
+    margin-left: 3px;
+}
+
+/*(*/
+.mjx-c28{
+    margin-right: 3px;
+    margin-left: 1px;
+}
+/*)*/
+.mjx-c29{
+    margin-left: 3px;
+    margin-right: 1px;
+}
+
+
+/*||*/
+.mjx-c7C{
+    margin-right: 2px;
+    margin-left: 2px;
+}
+/*{}*/
+.mjx-c7B,
+.mjx-c7D{
+    margin-right: 1px;
+    margin-left: 1px;
+}
+
+/*backslash \ */
+.mjx-c2216{
+    vertical-align: 2px;
+    padding-left: 1px;
+}
+
+/*exists*/
+.mjx-c2203{
+    margin-right: 2px;
+}
+
+/* , */
+.mjx-c2C{
+    margin-right: 1px;
+}
+/* \lor */
+.mjx-c2228{
+    font-size: 15px;
+    margin-right: 1px;
+    margin-left: 0px;
+}
+
+/*vhodni vektor vijuga*/
+.mjx-c7E {
+    font-size: 170% !important;
+    text-indent: -4px;
+    margin-top: 1px;
+}
+
+/*negiranje overline*/
+mjx-over[style="padding-bottom: 0.18em; margin-bottom: -0.248em;"]{
+    margin-bottom: -3px !important;
+    margin-left: 1px;;
+}
+
+/*forall*/
+.mjx-c2200{
+    margin-right: 1px;
+}
+
+/* tables oz array margini*/
+.betterTable mjx-mtd {
+    padding-bottom: 7px !important;
+    padding-top: 7px !important;
+    top: -10px;
+    
+}
+
+.betterTable mjx-mn > mjx-c{
+    padding-top: 3px !important;
+}
+
+
+/*Matrix right bracket*/
+.mjx-c5D > mjx-ext {
+    color: #d5d5d5;
+    transform: scaleX(1.5) translateX(2%) scaleY(130%);
+}
+/*Matrix left bracket*/
+.mjx-c5B > mjx-ext {
+    color: #d5d5d5;
+    transform: scaleX(1.5) translateX(-1%);
+}

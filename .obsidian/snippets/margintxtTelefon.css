@@ -1,0 +1,81 @@
+/*HEADER*/
+   
+h1, h2, h3, h4, h5 {
+  display: none;
+}   
+ 
+.mod-header{
+  font-size: 21px !important;
+  margin-bottom: 4% !important;
+}       
+
+em{
+  color: rgb(162, 162, 162);
+} 
+
+strong{
+  color: #6CEF9A;
+}
+:root {
+  --padding-right: 22%;
+
+}
+
+.svg-icon {
+  height: 15px !important;
+  width: 15px !important;
+}
+  
+  /*    & > div > p:has(span.marg) {*/
+.markdown-preview-section > div > p:not(:empty):not(:has(*)),
+.markdown-preview-section > div > p:has(.marg),
+.markdown-preview-section > div > p:has(.math-inline),
+.markdown-preview-section > div > p:has(strong),
+.markdown-preview-section > div > p:has(em),
+.markdown-preview-section > div > p:has(br) {
+  justify-self: 50%;
+  padding-right: var(--padding-right); 
+  padding-left: 0%;
+}
+
+li{
+  padding-right: calc(var(--padding-right) - 2%);
+  margin-inline-start: 30px !important;
+  margin-inline-end: 30px;
+}
+
+.kanban-plugin__markdown-preview-view li{
+  padding: var(--file-margins) !important;
+}
+
+
+.callout li{
+  background-color: black !important;
+  padding-right: 5%;
+  padding-left: 1px;
+  left: 19px;
+  margin-inline-start: 30px !important;
+  margin-inline-end: 30px;
+}
+
+
+/*125*/
+.marg{
+  width: 60px;
+  z-index: 9999;
+  padding-top: 3px;
+  position: absolute;
+  left: 50%;
+  margin-left: 100px; 
+  font-size: 8px;
+  color: rgb(189, 189, 189); 
+  font-style: italic;
+}
+
+
+.markdown-preview-section {
+  & > div{
+      padding-left: 5px !important;
+      padding-right: 5px !important;
+  } 
+}

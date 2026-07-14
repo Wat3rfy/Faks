@@ -1,0 +1,197 @@
+
+
+/*LAMBDA*/
+.TEX-I{
+    font-family: 'Latin Modern Roman 10'  !important;
+    font-style: italic;
+}
+
+    /*simboli racunksi*/
+.MJX-TEX{
+    font-family: 'MJXTEX' !important;
+}
+/*overline*/
+mjx-over[style="padding-bottom: 0.18em; margin-bottom: -0.248em;"]{
+    margin-bottom: -8px !important;
+    margin-left: 1px;;
+}
+
+
+/*sq root*/
+mjx-box[style="padding-top: 0.189em;"], 
+mjx-box[style="padding-top: 0.234em;"], 
+mjx-box[style="padding-top: 0.394em;"] {
+    margin-left: -2px;
+}
+
+
+/*times sign (x)*/
+.mjx-cD7{
+    margin-left: 1px !important;
+}
+
+
+
+/* bigsqaurecup top pogoj*/
+mjx-over[style = "padding-bottom: 0.184em; padding-left: 0.421em;"], mjx-over[style="padding-bottom: 0.184em; padding-left: 0.477em;"] {
+    padding-bottom: 0.284em !important;
+    margin-left: 1px;
+}
+/* bigsqaurecup simbol*/
+.mjx-c2A06{
+    margin-left: 3px !important;
+}
+
+/* Prod top pogoj*/
+mjx-over[style="padding-bottom: 0.142em;"] {
+    padding-bottom: 0.34em !important;
+    margin-left: -1px !important;
+}
+/*prod simbol*/
+.mjx-c220F{
+    margin-left: 3px !important;
+}
+
+/* Sum top pogoj*/
+mjx-over[style="padding-bottom: 0.142em; padding-left: 0.086em;"] {
+    padding-bottom: 5px !important;
+}
+mjx-over[style="padding-bottom: 0.192em; padding-left: 0.538em;"] {
+    padding-bottom: 6px !important;
+    margin-left: 3px;
+}
+mjx-over[style="padding-bottom: 0.192em; padding-left: 0.51em;"] {
+    padding-bottom: 6px !important;
+    margin-left: 3px;
+}
+/*Sum simbol*/
+.mjx-c2211{
+    margin-left: 4px !important;
+}
+
+
+
+
+
+/* Sum top pogoj*/
+mjx-over[style = "padding-bottom: 0.142em; padding-left: 0.068em;"] {
+    padding-bottom: 0.29em !important;
+    margin-left: -0.2em !important;
+}
+/* Sum bot pogoj*/
+mjx-under[style="padding-top: 0.167em; padding-left: 0.068em;"] > mjx-texatom{
+    margin-left: -1px !important;
+    margin-right: 1px;
+    padding-top: 2px;
+}
+
+/*vhodni vektor vijuga*/
+mjx-over[style="padding-bottom: 0.105em; padding-left: 0.576em; margin-bottom: -0.215em;"]:has(.mjx-c7E), mjx-over[style="padding-bottom: 0.105em; padding-left: 0.521em; margin-bottom: -0.215em;"]:has(.mjx-c7E), mjx-over[style="padding-bottom: 0.105em; padding-left: 0.441em; margin-bottom: -0.215em;"]:has(.mjx-c7E){
+    margin-bottom: -10px !important;
+    margin-top: 2px;
+    
+}
+
+
+mjx-mo[style="width: 0px; margin-left: -0.25em;"] > .mjx-c7E {
+    font-size: 170% !important;
+    text-indent: -4px;
+}
+
+/*vpliva na potence stevil*/
+mjx-texatom:has(.mjx-n) {
+    padding-left: 2px !important;
+}
+
+mjx-mi {
+    margin-right: 1px !important; 
+
+}
+
+
+mjx-mo {
+    margin-right: 2px;
+    margin-left: 3px;
+}
+mjx-mn {
+    padding-right: 2px;
+}
+
+
+mjx-c.mjx-c2216{
+    vertical-align: 1px;
+    padding-left: 2px;
+}
+
+/*subscript access*/
+mjx-script[style="vertical-align: -0.15em; margin-left: -0.064em;"] {
+    margin-left: -6px !important;
+    vertical-align: -0.2em !important;
+}
+/*spremenljivke znaki (črke)*/
+mjx-script[style="vertical-align: -0.15em;"] {
+    margin-left: 0px !important;
+    vertical-align: -0.2em !important;
+}
+/*števila*/
+mjx-script[style="vertical-align: -0.15em;"]> mjx-texatom>mjx-mn>mjx-c {
+    margin-left: -2px !important;
+    margin-right: -2px !important;
+}
+/*operacije znaki*/
+mjx-script[style="vertical-align: -0.15em;"]> mjx-texatom>mjx-mo>mjx-c {
+    margin-right: 1px;
+    margin-left: -2px;
+}
+/*potence access*/
+mjx-script[style="vertical-align: 0.363em; margin-left: 0.053em;"] {
+    margin-left: 0px !important;
+}
+mjx-script[style="vertical-align: 0.413em;"] {
+    margin-left: -1px !important;
+}
+mjx-script[style="vertical-align: 0.289em;"] {
+    margin-left: -1px !important;
+}
+mjx-script[style="vertical-align: 0.477em;"] {
+    margin-left: -2px !important;
+    margin-top: 3px;
+}
+
+
+
+/* j padding*/
+.mjx-c1D457{
+    margin-left: 2px;
+    margin-right: -1px;
+}
+/* j padding subscript*/
+mjx-script[style="vertical-align: -0.15em;"] > mjx-texatom > mjx-mi > .mjx-c1D457{
+    margin-left: 1px !important;
+    margin-right: -1px !important;
+
+}
+
+/*alpha padding*/
+.mjx-c7C{
+    margin-right: 2px;
+    margin-left: 1px;
+}
+
+/*strešica / hat simbol nad črakmi*/
+/*i al neki*/
+mjx-over[style="padding-bottom: 0.105em; padding-left: 0.172em; margin-bottom: -0.531em;"]{
+    margin-bottom: -12px !important;
+    margin-left: 2px;
+}
+/*j al neki*/
+mjx-over[style="padding-bottom: 0.105em; padding-left: 0.206em; margin-bottom: -0.531em;"]{
+    margin-bottom: -12px !important;
+    margin-left: 2px;
+
+}
+
+
+
+
+

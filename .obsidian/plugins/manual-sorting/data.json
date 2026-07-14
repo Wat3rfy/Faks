@@ -1,0 +1,696 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "_pasted_images",
+        "_templates",
+        "1 Letnik",
+        "2 Letnik",
+        "Math",
+        "Personal",
+        "Slovnica",
+        "VIdeoti",
+        "deploy.ps1",
+        "English vocabulary.md",
+        "Intellij.md",
+        "Nemscina.md",
+        "netlify.toml",
+        "Mozni problemi.md",
+        "preamble.sty",
+        "Prompts.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "_pasted_images": {
+      "children": [
+        "_pasted_images/Pasted image 20260627183446.png",
+        "_pasted_images/Pasted image 20260623163825.png",
+        "_pasted_images/Pasted image 20260615124043.png",
+        "_pasted_images/Pasted image 20260614234137.png",
+        "_pasted_images/Pasted image 20260614234146.png",
+        "_pasted_images/Pasted image 20260614234935.png",
+        "_pasted_images/Pasted image 20260613172031.png",
+        "_pasted_images/Pasted image 20260613174229.png",
+        "_pasted_images/Pasted image 20260613160210.png",
+        "_pasted_images/Pasted image 20260613124431.png",
+        "_pasted_images/Pasted image 20260611195627.png",
+        "_pasted_images/Pasted image 20260605181211.png",
+        "_pasted_images/Pasted image 20260605185901.png",
+        "_pasted_images/Pasted image 20260605190302.png",
+        "_pasted_images/Pasted image 20260605220427.png",
+        "_pasted_images/Pasted image 20260525233811.png",
+        "_pasted_images/Pasted image 20260504103732.png",
+        "_pasted_images/Pasted image 20260516202505.png",
+        "_pasted_images/Pasted image 20260516203614.png",
+        "_pasted_images/Pasted image 20260516212302.png",
+        "_pasted_images/Pasted image 20260516212534.png",
+        "_pasted_images/Pasted image 20260516213215.png",
+        "_pasted_images/Pasted image 20260516213342.png",
+        "_pasted_images/Pasted image 20260516233754.png",
+        "_pasted_images/Pasted image 20260511172854.png",
+        "_pasted_images/Pasted image 20260511172843.png",
+        "_pasted_images/Pasted image 20260510200014.png",
+        "_pasted_images/Pasted image 20260504223531.png",
+        "_pasted_images/Pasted image 20260429230211.png",
+        "_pasted_images/Pasted image 20260429221000.png",
+        "_pasted_images/Pasted image 20260415221959.png",
+        "_pasted_images/Pasted image 20260415222018.png",
+        "_pasted_images/Pasted image 20250330203918.png",
+        "_pasted_images/Pasted image 20250514205044.png",
+        "_pasted_images/Pasted image 20250514212024.png",
+        "_pasted_images/Pasted image 20250514215544.png",
+        "_pasted_images/Pasted image 20250514215557.png",
+        "_pasted_images/Pasted image 20250828013415.png",
+        "_pasted_images/Pasted image 20250829222512.png",
+        "_pasted_images/Pasted image 20250917235053.png",
+        "_pasted_images/Pasted image 20250918000003.png",
+        "_pasted_images/Pasted image 20250918000400.png",
+        "_pasted_images/Pasted image 20250918193448.png",
+        "_pasted_images/Pasted image 20250918193457.png",
+        "_pasted_images/Pasted image 20251009213946.png",
+        "_pasted_images/Pasted image 20251009214615.png",
+        "_pasted_images/Pasted image 20251023164355.png",
+        "_pasted_images/Pasted image 20251030230950.png",
+        "_pasted_images/Pasted image 20251031185645.png",
+        "_pasted_images/Pasted image 20251101000102.png",
+        "_pasted_images/Pasted image 20251109222230.png",
+        "_pasted_images/Pasted image 20251109222235.png",
+        "_pasted_images/Pasted image 20251121153534.png",
+        "_pasted_images/Pasted image 20251121153548.png",
+        "_pasted_images/Pasted image 20251231145216.png",
+        "_pasted_images/Pasted image 20260104161858.png",
+        "_pasted_images/Pasted image 20260104232155.png",
+        "_pasted_images/Pasted image 20260111201509.png",
+        "_pasted_images/Pasted image 20260112180406.png",
+        "_pasted_images/Pasted image 20260118234952.png",
+        "_pasted_images/Pasted image 20260122203223.png",
+        "_pasted_images/Pasted image 20260122203231.png",
+        "_pasted_images/Pasted image 20260122203619.png",
+        "_pasted_images/Pasted image 20260122204151.png",
+        "_pasted_images/Pasted image 20260122204232.png",
+        "_pasted_images/Pasted image 20260125140138.png",
+        "_pasted_images/Pasted image 20260126002600.png",
+        "_pasted_images/Pasted image 20260130133713.png",
+        "_pasted_images/Pasted image 20260205142039.png",
+        "_pasted_images/Pasted image 20260210155913.png",
+        "_pasted_images/Pasted image 20260219233707.png",
+        "_pasted_images/Pasted image 20260306232735.png",
+        "_pasted_images/Pasted image 20260307120407.png",
+        "_pasted_images/Pasted image 20260308231930.png",
+        "_pasted_images/Pasted image 20260325194159.png",
+        "_pasted_images/Pasted image 20260327211908.png",
+        "_pasted_images/Pasted image 20260401233659.png",
+        "_pasted_images/Pasted image 20260402192126.png",
+        "_pasted_images/Pasted image 20260402223111.png",
+        "_pasted_images/Pasted image 20260402224159.png",
+        "_pasted_images/Pasted image 20260404155936.png",
+        "_pasted_images/Pasted image 20260404155947.png",
+        "_pasted_images/Pasted image 20260404160452.png",
+        "_pasted_images/Pasted image 20260404160741.png",
+        "_pasted_images/Pasted image 20260404172814.png",
+        "_pasted_images/Pasted image 20260404173636.png",
+        "_pasted_images/Pasted image 20260406220839.png",
+        "_pasted_images/Pasted image 20260408122100.png",
+        "_pasted_images/Pasted image 20260408122126.png",
+        "_pasted_images/Pasted image 20260413095220.png",
+        "_pasted_images/Pasted image 20260413100031.png",
+        "_pasted_images/Pasted image 20260413104701.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "_templates": {
+      "children": [
+        "_templates/5title.md",
+        "_templates/BetterTablesBeginSpan.md",
+        "_templates/Callout.md",
+        "_templates/CustomSpanEnd.md",
+        "_templates/Dokaz.md",
+        "_templates/MarginNoteBeginSpan.md",
+        "_templates/Primer.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "1 Letnik": {
+      "children": [
+        "1 Letnik/Analiza",
+        "1 Letnik/Analiza 2",
+        "1 Letnik/ARS",
+        "1 Letnik/Diskretne Strukture 2",
+        "1 Letnik/LinearnaAlgebra"
+      ],
+      "sortOrder": "custom"
+    },
+    "1 Letnik/Analiza": {
+      "children": [
+        "1 Letnik/Analiza/Analiza.md",
+        "1 Letnik/Analiza/Funkcije.md",
+        "1 Letnik/Analiza/Integrali.md",
+        "1 Letnik/Analiza/Kompleksna števila.md",
+        "1 Letnik/Analiza/Množice v realnih številih.md",
+        "1 Letnik/Analiza/Odvod.md",
+        "1 Letnik/Analiza/Splošno.md",
+        "1 Letnik/Analiza/Zaporedja in vrste.md",
+        "1 Letnik/Analiza/Zveznost.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "1 Letnik/Analiza 2": {
+      "children": [
+        "1 Letnik/Analiza 2/Diferencialne enačbe.md",
+        "1 Letnik/Analiza 2/Funkcije več spremenljivk.md",
+        "1 Letnik/Analiza 2/Funkcijska zaporedja in vrste.md",
+        "1 Letnik/Analiza 2/Krivulje.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "1 Letnik/ARS": {
+      "children": [
+        "1 Letnik/ARS/AI ARS.md",
+        "1 Letnik/ARS/Arhitektura računalniških sistemov.md",
+        "1 Letnik/ARS/ARS.md",
+        "1 Letnik/ARS/ARS Cheat Sheet.md",
+        "1 Letnik/ARS/lovro ars.md",
+        "1 Letnik/ARS/RV32I_Ref.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "1 Letnik/Diskretne Strukture 2": {
+      "children": [
+        "1 Letnik/Diskretne Strukture 2/Diskretne strukture zapiski za izpit.md",
+        "1 Letnik/Diskretne Strukture 2/Povzetek z izpitov.md",
+        "1 Letnik/Diskretne Strukture 2/Vprasanja.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "1 Letnik/LinearnaAlgebra": {
+      "children": [
+        "1 Letnik/LinearnaAlgebra/Adjungirana preslikava.md",
+        "1 Letnik/LinearnaAlgebra/Algebrske strukture.md",
+        "1 Letnik/LinearnaAlgebra/Determinante.md",
+        "1 Letnik/LinearnaAlgebra/Diofatnske enačbe in polinomi.md",
+        "1 Letnik/LinearnaAlgebra/Ekvivalentnost matrik.md",
+        "1 Letnik/LinearnaAlgebra/Homomorfizmi.md",
+        "1 Letnik/LinearnaAlgebra/Jordanske forme.md",
+        "1 Letnik/LinearnaAlgebra/Kolobarji, obsegi in polja.md",
+        "1 Letnik/LinearnaAlgebra/Kvadratne forme.md",
+        "1 Letnik/LinearnaAlgebra/Lastne vrednosti.md",
+        "1 Letnik/LinearnaAlgebra/Linearna ogrinjača in baze.md",
+        "1 Letnik/LinearnaAlgebra/Linearne preslikave.md",
+        "1 Letnik/LinearnaAlgebra/Matrike.md",
+        "1 Letnik/LinearnaAlgebra/Norma, Skalarni, vektorski, mešani produkt.md",
+        "1 Letnik/LinearnaAlgebra/PREHOD MED BAZAMI.md",
+        "1 Letnik/LinearnaAlgebra/Premice in hiperravnine.md",
+        "1 Letnik/LinearnaAlgebra/Singularni razcep.md",
+        "1 Letnik/LinearnaAlgebra/Sistemi Linearnih Enačb.md",
+        "1 Letnik/LinearnaAlgebra/Vektorji, Operacije, Lin. Neodvisnost.md",
+        "1 Letnik/LinearnaAlgebra/Vektorski prostori.md",
+        "1 Letnik/LinearnaAlgebra/Vektorski prostori s skalarnim produktom.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik": {
+      "children": [
+        "2 Letnik/Algoritmi in podatkovne strukt. 2",
+        "2 Letnik/Algoritmi in podatkovne strukture",
+        "2 Letnik/Analiza 3",
+        "2 Letnik/Izbrana poglavja matematike",
+        "2 Letnik/Izračunljivost in računska zahtevnost",
+        "2 Letnik/Kombinatorika",
+        "2 Letnik/Optimizacijske metode",
+        "2 Letnik/Osnove podatkovnih baz",
+        "2 Letnik/Principi programskih jezikov",
+        "2 Letnik/Računalniške komunkacije"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Algoritmi in podatkovne strukt. 2": {
+      "children": [
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Sources",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/CheetSheet.md",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Časovna zahtevnost.md",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Drevesa, višina dreves, elemnti dreves.md",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Deli in vladaj & Krovni izrek - todo.md",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Amortizacija-todo.md",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Dinamično programiranje.md",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Požrešna metoda-todo.md",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Premikanje po grafih.md",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Pretoki.md",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Nizi.md",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Računska geometrija.md",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Sprotni Algoritmi.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Algoritmi in podatkovne strukt. 2/Sources": {
+      "children": [
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Sources/first part competitive programming by steven & felix halim.pdf",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Sources/AlgorithmsStringsTreesSequences.pdf",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Sources/Algorithm Design - John Kleinberg - Éva Tardos.pdf",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Sources/CompetitiveProgramming4Book2.pdf",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Sources/Introduction.to.Algorithms.4th.Edition.2022.4.pdf",
+        "2 Letnik/Algoritmi in podatkovne strukt. 2/Sources/Computational-Geometry-Algorithms-and-Applications-3rd-Ed.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Algoritmi in podatkovne strukture": {
+      "children": [
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources",
+        "2 Letnik/Algoritmi in podatkovne strukture/Vaje",
+        "2 Letnik/Algoritmi in podatkovne strukture/Abstraktni podatkovni tipi.md",
+        "2 Letnik/Algoritmi in podatkovne strukture/APS_zapiski_1stran.docx",
+        "2 Letnik/Algoritmi in podatkovne strukture/APS_zapiski_1stran (1).pdf",
+        "2 Letnik/Algoritmi in podatkovne strukture/C++.md",
+        "2 Letnik/Algoritmi in podatkovne strukture/Cheat Sheet.md",
+        "2 Letnik/Algoritmi in podatkovne strukture/ChSh.md",
+        "2 Letnik/Algoritmi in podatkovne strukture/Deli in vladaj.md",
+        "2 Letnik/Algoritmi in podatkovne strukture/Dinamično programiranje.md",
+        "2 Letnik/Algoritmi in podatkovne strukture/Drevesa.md",
+        "2 Letnik/Algoritmi in podatkovne strukture/Grafi.md",
+        "2 Letnik/Algoritmi in podatkovne strukture/Izpit 01_250820_165200.pdf",
+        "2 Letnik/Algoritmi in podatkovne strukture/Najkrajše poti.md",
+        "2 Letnik/Algoritmi in podatkovne strukture/Napredno urejanje.md",
+        "2 Letnik/Algoritmi in podatkovne strukture/Osnovno urejanje.md",
+        "2 Letnik/Algoritmi in podatkovne strukture/Požrešni algoritmi.md",
+        "2 Letnik/Algoritmi in podatkovne strukture/Računska zahtevnost.md",
+        "2 Letnik/Algoritmi in podatkovne strukture/Vpeta drevesa.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Algoritmi in podatkovne strukture/Sources": {
+      "children": [
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main": {
+      "children": [
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main/Abstraktni podatkovni tipi.ipynb",
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main/Cpp.ipynb",
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main/Deli in vladaj.ipynb",
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main/Dinamicno programiranje.ipynb",
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main/Drevesa.ipynb",
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main/Grafi.ipynb",
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main/Najkrajse poti.ipynb",
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main/Napredno urejanje.ipynb",
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main/Osnovno urejanje.ipynb",
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main/Pozresni algoritmi.ipynb",
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main/Racunska geometrija.ipynb",
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main/Racunska zahtevnost.ipynb",
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main/Uvod.ipynb",
+        "2 Letnik/Algoritmi in podatkovne strukture/Sources/APS1-main/Vpeta drevesa.ipynb"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Algoritmi in podatkovne strukture/Vaje": {
+      "children": [
+        "2 Letnik/Algoritmi in podatkovne strukture/Vaje/APS1-2024-1.pdf",
+        "2 Letnik/Algoritmi in podatkovne strukture/Vaje/APS1-2024-2.pdf",
+        "2 Letnik/Algoritmi in podatkovne strukture/Vaje/APS1-2024-3.pdf",
+        "2 Letnik/Algoritmi in podatkovne strukture/Vaje/APS1-2025-1.pdf",
+        "2 Letnik/Algoritmi in podatkovne strukture/Vaje/APS1-2025-2.pdf",
+        "2 Letnik/Algoritmi in podatkovne strukture/Vaje/APS1-2025-3.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Analiza 3": {
+      "children": [
+        "2 Letnik/Analiza 3/Sources",
+        "2 Letnik/Analiza 3/Vaje",
+        "2 Letnik/Analiza 3/Gama in beta funkcija.md",
+        "2 Letnik/Analiza 3/Greenova formula.md",
+        "2 Letnik/Analiza 3/Integrali s parametrom.md",
+        "2 Letnik/Analiza 3/Integrali v več dimenzijah.md",
+        "2 Letnik/Analiza 3/Kompleksna analiza.md",
+        "2 Letnik/Analiza 3/Kompleksna analiza iz prof zapiskov.md",
+        "2 Letnik/Analiza 3/Kompleksni prostor.md",
+        "2 Letnik/Analiza 3/Nekaj Vektorske Analize.md",
+        "2 Letnik/Analiza 3/Ponavljanje.md",
+        "2 Letnik/Analiza 3/Posplošeni integrali s parametrom.md",
+        "2 Letnik/Analiza 3/Uvedba novih spremenljivk.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Analiza 3/Sources": {
+      "children": [
+        "2 Letnik/Analiza 3/Sources/ProfZapiski",
+        "2 Letnik/Analiza 3/Sources/Analiza 3.pdf",
+        "2 Letnik/Analiza 3/Sources/Analiza 3_.pdf",
+        "2 Letnik/Analiza 3/Sources/Analiza_3_.pdf",
+        "2 Letnik/Analiza 3/Sources/Dvojni integral 1 1.pdf",
+        "2 Letnik/Analiza 3/Sources/Dvojni integral 1 (1) 1.pdf",
+        "2 Letnik/Analiza 3/Sources/Dvojni integral 2 1.pdf",
+        "2 Letnik/Analiza 3/Sources/Dvojni integral 3 1.pdf",
+        "2 Letnik/Analiza 3/Sources/Analiza3-p5.pdf",
+        "2 Letnik/Analiza 3/Sources/Analiza3-p5d.pdf",
+        "2 Letnik/Analiza 3/Sources/Dvojni integral 1.pdf",
+        "2 Letnik/Analiza 3/Sources/Dvojni integral 1 (1).pdf",
+        "2 Letnik/Analiza 3/Sources/Dvojni integral 2.pdf",
+        "2 Letnik/Analiza 3/Sources/Dvojni integral 3.pdf",
+        "2 Letnik/Analiza 3/Sources/kompleksnaAnalizaPerko.pdf",
+        "2 Letnik/Analiza 3/Sources/skriptaII.pdf",
+        "2 Letnik/Analiza 3/Sources/vektorskaanalizaPerko.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Analiza 3/Sources/ProfZapiski": {
+      "children": [
+        "2 Letnik/Analiza 3/Sources/ProfZapiski/Dvojni integral 1 2.pdf",
+        "2 Letnik/Analiza 3/Sources/ProfZapiski/Dvojni integral 2 2.pdf",
+        "2 Letnik/Analiza 3/Sources/ProfZapiski/Dvojni integral 3 2.pdf",
+        "2 Letnik/Analiza 3/Sources/ProfZapiski/Kompleksna 1.pdf",
+        "2 Letnik/Analiza 3/Sources/ProfZapiski/Kompleksna 2.pdf",
+        "2 Letnik/Analiza 3/Sources/ProfZapiski/Nove spremenljivke - krivuljni in ploskovni integral.pdf",
+        "2 Letnik/Analiza 3/Sources/ProfZapiski/Vekrotska analiza.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Analiza 3/Vaje": {
+      "children": [
+        "2 Letnik/Analiza 3/Vaje/Ana3kol1-1819.pdf",
+        "2 Letnik/Analiza 3/Vaje/Ana3kol1-1920.pdf",
+        "2 Letnik/Analiza 3/Vaje/ISRM Ana3 K1.pdf",
+        "2 Letnik/Analiza 3/Vaje/izpit1-arhiv.pdf",
+        "2 Letnik/Analiza 3/Vaje/izpit1-arhiv (1).pdf",
+        "2 Letnik/Analiza 3/Vaje/Kolokvij1.pdf",
+        "2 Letnik/Analiza 3/Vaje/Kolokvij1_arhiv.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Izbrana poglavja matematike": {
+      "children": [
+        "2 Letnik/Izbrana poglavja matematike/Sources",
+        "2 Letnik/Izbrana poglavja matematike/Four teorija.md",
+        "2 Letnik/Izbrana poglavja matematike/Izrek o korelaciji idealov kvocientne množice in idealov ki vsebujejo omenjen ideal.md",
+        "2 Letnik/Izbrana poglavja matematike/Grupe.md",
+        "2 Letnik/Izbrana poglavja matematike/Kolobarji.md",
+        "2 Letnik/Izbrana poglavja matematike/Topologija.md",
+        "2 Letnik/Izbrana poglavja matematike/Fourierova teorija.md",
+        "2 Letnik/Izbrana poglavja matematike/Vprašanja.md",
+        "2 Letnik/Izbrana poglavja matematike/Zapiski.md",
+        "2 Letnik/Izbrana poglavja matematike/Teorija za vstavt.md",
+        "2 Letnik/Izbrana poglavja matematike/Ciklotomični polinomi.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Izbrana poglavja matematike/Sources": {
+      "children": [
+        "2 Letnik/Izbrana poglavja matematike/Sources/perkoTopologija.pdf",
+        "2 Letnik/Izbrana poglavja matematike/Sources/Kolobarji in obsegi.pdf",
+        "2 Letnik/Izbrana poglavja matematike/Sources/SMAM11 - I Sem - Algebraic Structures.pdf",
+        "2 Letnik/Izbrana poglavja matematike/Sources/perkoKolobarji.pdf",
+        "2 Letnik/Izbrana poglavja matematike/Sources/prekoObsegi.pdf",
+        "2 Letnik/Izbrana poglavja matematike/Sources/Ucbenik-algebra.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Izračunljivost in računska zahtevnost": {
+      "children": [
+        "2 Letnik/Izračunljivost in računska zahtevnost/Sources",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Časovna zahtevnost.md",
+        "2 Letnik/Izračunljivost in računska zahtevnost/KNG in PDA.md",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Kodiranje podatkov.md",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Končni avtomati in regularni jeziki.md",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Lema o napihovanju in MHN.md",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Matematična osnova.md",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Nizi in jeziki.md",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Prostorska zahtevnost.md",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Regularni izrazi.md",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Turingovi stroji.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Izračunljivost in računska zahtevnost/Sources": {
+      "children": [
+        "2 Letnik/Izračunljivost in računska zahtevnost/Sources/irz-naloge-prejsnjih-let",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Sources/Introduction to the Theory of Computation , by Michael Sipser (3rd edition 2012).pdf",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Sources/irz.md",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Sources/irz-naloge.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Izračunljivost in računska zahtevnost/Sources/irz-naloge-prejsnjih-let": {
+      "children": [
+        "2 Letnik/Izračunljivost in računska zahtevnost/Sources/irz-naloge-prejsnjih-let/IRZ___naloge_5.pdf",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Sources/irz-naloge-prejsnjih-let/IRZ___naloge_9.pdf",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Sources/irz-naloge-prejsnjih-let/IRZ-naloga1.pdf",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Sources/irz-naloge-prejsnjih-let/IRZ-naloga2.pdf",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Sources/irz-naloge-prejsnjih-let/IRZ-naloga3.pdf",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Sources/irz-naloge-prejsnjih-let/IRZ-naloga4.pdf",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Sources/irz-naloge-prejsnjih-let/IRZ-naloga6.pdf",
+        "2 Letnik/Izračunljivost in računska zahtevnost/Sources/irz-naloge-prejsnjih-let/IRZ-naloga7.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Kombinatorika": {
+      "children": [
+        "2 Letnik/Kombinatorika/Sources",
+        "2 Letnik/Kombinatorika/Kombinatorika1.md",
+        "2 Letnik/Kombinatorika/Kombinatorika2.md",
+        "2 Letnik/Kombinatorika/Za ponavljanje.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Kombinatorika/Sources": {
+      "children": [
+        "2 Letnik/Kombinatorika/Sources/PerkoKombinatorika",
+        "2 Letnik/Kombinatorika/Sources/komb_vaje.pdf",
+        "2 Letnik/Kombinatorika/Sources/Kombinatorika_251006_125921.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Kombinatorika/Sources/PerkoKombinatorika": {
+      "children": [
+        "2 Letnik/Kombinatorika/Sources/PerkoKombinatorika/Kombinatorika.pdf",
+        "2 Letnik/Kombinatorika/Sources/PerkoKombinatorika/Kombinatorika1.pdf",
+        "2 Letnik/Kombinatorika/Sources/PerkoKombinatorika/Kombinatorika2.pdf",
+        "2 Letnik/Kombinatorika/Sources/PerkoKombinatorika/Kombinatorika3.pdf",
+        "2 Letnik/Kombinatorika/Sources/PerkoKombinatorika/Kombinatorika4.pdf",
+        "2 Letnik/Kombinatorika/Sources/PerkoKombinatorika/Kombinatorika5.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Optimizacijske metode": {
+      "children": [
+        "2 Letnik/Optimizacijske metode/Pretoki in prerezi v2.md",
+        "2 Letnik/Optimizacijske metode/Sources",
+        "2 Letnik/Optimizacijske metode/Uvod.md",
+        "2 Letnik/Optimizacijske metode/Optimizacijske naloge.md",
+        "2 Letnik/Optimizacijske metode/Metoda simplexov.md",
+        "2 Letnik/Optimizacijske metode/Podrobno o simpleksni metodi.md",
+        "2 Letnik/Optimizacijske metode/Pretvorba lin. prog. in dualnost.md",
+        "2 Letnik/Optimizacijske metode/Matrične igre.md",
+        "2 Letnik/Optimizacijske metode/Razvozi.md",
+        "2 Letnik/Optimizacijske metode/Pretoki in prerezi.md",
+        "2 Letnik/Optimizacijske metode/Prirejanja in pokritja.md",
+        "2 Letnik/Optimizacijske metode/Aproksimacijski algoritmi.md",
+        "2 Letnik/Optimizacijske metode/Konveksne množice.md",
+        "2 Letnik/Optimizacijske metode/Konveksne funkcije.md",
+        "2 Letnik/Optimizacijske metode/Konveksna optimizacija.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Optimizacijske metode/Sources": {
+      "children": [
+        "2 Letnik/Optimizacijske metode/Sources/KKT4.pdf",
+        "2 Letnik/Optimizacijske metode/Sources/aprox_scan_delni_zapiski.pdf",
+        "2 Letnik/Optimizacijske metode/Sources/978-3-540-30717-4.pdf",
+        "2 Letnik/Optimizacijske metode/Sources/Untitled.md",
+        "2 Letnik/Optimizacijske metode/Sources/uvod_scan.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Osnove podatkovnih baz": {
+      "children": [
+        "2 Letnik/Osnove podatkovnih baz/Sources",
+        "2 Letnik/Osnove podatkovnih baz/Diski in diskovna polja.md",
+        "2 Letnik/Osnove podatkovnih baz/Indeksiranje.md",
+        "2 Letnik/Osnove podatkovnih baz/Načrtovanje podatkovnih baz.md",
+        "2 Letnik/Osnove podatkovnih baz/NOSQL.md",
+        "2 Letnik/Osnove podatkovnih baz/Osnove relacijskih baz.md",
+        "2 Letnik/Osnove podatkovnih baz/Podatkovna skladišča.md",
+        "2 Letnik/Osnove podatkovnih baz/Relacijska algebra.md",
+        "2 Letnik/Osnove podatkovnih baz/Relacijske baze.md",
+        "2 Letnik/Osnove podatkovnih baz/Relacijski in domenski račun.md",
+        "2 Letnik/Osnove podatkovnih baz/Upravljanje diska in pomnilnika.md",
+        "2 Letnik/Osnove podatkovnih baz/Vektorske baze.md",
+        "2 Letnik/Osnove podatkovnih baz/XML in XQuery.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Osnove podatkovnih baz/Sources": {
+      "children": [
+        "2 Letnik/Osnove podatkovnih baz/Sources/[02] Relacijski podatkovni model.pdf",
+        "2 Letnik/Osnove podatkovnih baz/Sources/[02] Relacijski podatkovni model (1).pdf",
+        "2 Letnik/Osnove podatkovnih baz/Sources/[03] Relacijska algebra.pdf",
+        "2 Letnik/Osnove podatkovnih baz/Sources/[05] SQL(mySQL)_v19.pdf",
+        "2 Letnik/Osnove podatkovnih baz/Sources/[06] QBE.pdf",
+        "2 Letnik/Osnove podatkovnih baz/Sources/[07] Diski in diskovna polja.pdf",
+        "2 Letnik/Osnove podatkovnih baz/Sources/[08] Upravljanje z diskom in pomnilnikom.pdf",
+        "2 Letnik/Osnove podatkovnih baz/Sources/[09] Organizacija datotek in indeksi.pdf",
+        "2 Letnik/Osnove podatkovnih baz/Sources/[10] Nacrtovanje PB.pdf",
+        "2 Letnik/Osnove podatkovnih baz/Sources/[11] Podatkovna skladišča_v10.pdf",
+        "2 Letnik/Osnove podatkovnih baz/Sources/[11] XML Uvod.pdf",
+        "2 Letnik/Osnove podatkovnih baz/Sources/[12] XQuery.pdf",
+        "2 Letnik/Osnove podatkovnih baz/Sources/[14] noSQL_v01.pdf",
+        "2 Letnik/Osnove podatkovnih baz/Sources/[15] vector_database_v01.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Principi programskih jezikov": {
+      "children": [
+        "2 Letnik/Principi programskih jezikov/Sources",
+        "2 Letnik/Principi programskih jezikov/Sintaksa in semantika.md",
+        "2 Letnik/Principi programskih jezikov/Ukazni programski jezik.md",
+        "2 Letnik/Principi programskih jezikov/Dokazovanje pravilnosti.md",
+        "2 Letnik/Principi programskih jezikov/Podatkovni tipi.md",
+        "2 Letnik/Principi programskih jezikov/Lambda račun.md",
+        "2 Letnik/Principi programskih jezikov/Rekurzija.md",
+        "2 Letnik/Principi programskih jezikov/Izpeljava tipov.md",
+        "2 Letnik/Principi programskih jezikov/Logično programiranje.md",
+        "2 Letnik/Principi programskih jezikov/Specifikacija, implementacija, abstrakcija.md",
+        "2 Letnik/Principi programskih jezikov/Podtipi.md",
+        "2 Letnik/Principi programskih jezikov/Haskell in razredi podtipov.md",
+        "2 Letnik/Principi programskih jezikov/Monade in račuski učinki.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Principi programskih jezikov/Sources": {
+      "children": [
+        "2 Letnik/Principi programskih jezikov/Sources/Lambda-slo.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Računalniške komunkacije": {
+      "children": [
+        "2 Letnik/Računalniške komunkacije/Sources",
+        "2 Letnik/Računalniške komunkacije/Uvod.md",
+        "2 Letnik/Računalniške komunkacije/Fizična plast -todo.md",
+        "2 Letnik/Računalniške komunkacije/Povezovna plast -todo.md",
+        "2 Letnik/Računalniške komunkacije/Omrežna plast -todo.md",
+        "2 Letnik/Računalniške komunkacije/Transportna plast.md",
+        "2 Letnik/Računalniške komunkacije/Aplikacijska plast.md",
+        "2 Letnik/Računalniške komunkacije/Kriptografija in varnost.md",
+        "2 Letnik/Računalniške komunkacije/ECDHE.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "2 Letnik/Računalniške komunkacije/Sources": {
+      "children": [
+        "2 Letnik/Računalniške komunkacije/Sources/Computer Networking A Top-Down Approach (James W. Kurose, Keith W. Ross).pdf",
+        "2 Letnik/Računalniške komunkacije/Sources/RK 2025-26 Omrezna.pdf",
+        "2 Letnik/Računalniške komunkacije/Sources/RK 2025-26 Povezavna.pdf",
+        "2 Letnik/Računalniške komunkacije/Sources/RK 2025-26 Uvod in fizična.pdf",
+        "2 Letnik/Računalniške komunkacije/Sources/RK učbenik draft v0.49.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Math": {
+      "children": [
+        "Math/Funkcijske vrste.md",
+        "Math/Gama in beta funkcija.md",
+        "Math/Integriranje.md",
+        "Math/Kompleksna števila.md",
+        "Math/Kotne funkcije.md",
+        "Math/Limite.md",
+        "Math/Odvajanje.md",
+        "Math/Prehod med bazami.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal": {
+      "children": [
+        "Personal/Minecraft Modding",
+        "Personal/Design Patterns",
+        "Personal/Java",
+        "Personal/Disks",
+        "Personal/Git",
+        "Personal/ProjectsToBuild",
+        "Personal/Racunalnistvo",
+        "Personal/Da ne umrem.md",
+        "Personal/Lifehacks and utility.md",
+        "Personal/List stvari za kupit.md",
+        "Personal/preamble.sty",
+        "Personal/Računalinštvo.md",
+        "Personal/Težave.md",
+        "Personal/Time managment app.md",
+        "Personal/Urnik.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Design Patterns": {
+      "children": [
+        "Personal/Design Patterns/Builder pattern.md",
+        "Personal/Design Patterns/Abstract Factory Method.md",
+        "Personal/Design Patterns/Decorator pattern.md",
+        "Personal/Design Patterns/Observer pattern.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Disks": {
+      "children": [
+        "Personal/Disks/Disks.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Git": {
+      "children": [
+        "Personal/Git/Git Commands.md",
+        "Personal/Git/Git internals.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Java": {
+      "children": [
+        "Personal/Java/Method reference.md",
+        "Personal/Java/Functional interfaces.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Minecraft Modding": {
+      "children": [
+        "Personal/Minecraft Modding/Adding an item or block.md",
+        "Personal/Minecraft Modding/Creative Tab Events.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/ProjectsToBuild": {
+      "children": [
+        "Personal/ProjectsToBuild/Computer action logger.md",
+        "Personal/ProjectsToBuild/FILE explorer.md",
+        "Personal/ProjectsToBuild/hadnwriting ontetakingapp.md",
+        "Personal/ProjectsToBuild/Ksn mod za minecraft.md",
+        "Personal/ProjectsToBuild/Portfolio website.md",
+        "Personal/ProjectsToBuild/Untitled.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal/Racunalnistvo": {
+      "children": [
+        "Personal/Racunalnistvo/asyncio-python.md",
+        "Personal/Racunalnistvo/dunder-methods.md",
+        "Personal/Racunalnistvo/Javascript.md",
+        "Personal/Racunalnistvo/Uporabne spletne strani.md",
+        "Personal/Racunalnistvo/WSL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Slovnica": {
+      "children": [
+        "Slovnica/Prompt helpline.md",
+        "Slovnica/Slovnica.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "VIdeoti": {
+      "children": [
+        "VIdeoti/Limita video.md",
+        "VIdeoti/Razlaga implikacije in logike.md",
+        "VIdeoti/Riemann sum.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

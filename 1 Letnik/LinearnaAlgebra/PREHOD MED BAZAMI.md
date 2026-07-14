@@ -1,0 +1,5 @@
+Najprej mora veljati da dve bazi ne morata biti poplnoma neodvisni v smislu da imamo podano obej samo kot $(1,0)$ in  $(0,1)$ in drugo $(1,0)$ in  $(0,1)$  ker s tem ne bi mogli računati.
+
+Veljati mora da imamo eno bazo podano druga pa je podana z njo. Torej imamo standardno bazo $S$ in potem neko bazo $B$ npr. $(1,1), (1,0)$.
+
+Sedaj lahko ugotovimo koliko baznih vektorjev standardne baz poterbujemo da izrazimo nove vektorje. Kar zakodiramo v matriko. Potem pa lahko dobimo vektor v bazi $B$ in ker vemo koliko baznih vektorjev $B$ je porabljeno lahko izračunamo koliko vektorjev standardne baze je bilo porabljeno. Prehodna matrika iz neke baze $A$ v bazo $B$ torej zakodira koliko baznih vektorjev baze $B$ potrebujemo da izrazimo bazni vektor $A$. Vsak $i$-ti stolpec vsebuje števila za $i$-ti bazni vektor $B$-ja, vsako $j$-to število v $i$-item stolpcu pa vsebuje število $j$-tega baznega vektorja $A$ ki jih potrebujemo.

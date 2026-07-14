@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "e58523349e702d94",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0c4d340c84b6276",
+        "type": "tabs",
+        "dimension": 47.817589576547235,
+        "children": [
+          {
+            "id": "9cbc93d6f52ef149",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1 Letnik/ARS/RV32I_Ref.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "RV32I_Ref"
+            },
+            "group": "e43822c6360769dd"
+          }
+        ]
+      },
+      {
+        "id": "09762f65dd91699d",
+        "type": "tabs",
+        "dimension": 52.18241042345277,
+        "children": [
+          {
+            "id": "58ecb11354a1bb4d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1 Letnik/ARS/RV32I_Ref.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "RV32I_Ref"
+            },
+            "group": "e43822c6360769dd"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9bfe62b0147ab58",
+    "type": "split",
+    "children": [
+      {
+        "id": "13990e6cbc76e57e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d92705cdb61164",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "216c9502c4bca4e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "omrežna",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7ee8962ba48e9315",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "3ac789c32ccd791c",
+    "type": "split",
+    "children": [
+      {
+        "id": "df1c246023a5d267",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4702f834c68c5f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reference.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Reference"
+            }
+          },
+          {
+            "id": "ecdbb9c7dbd0b48e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reference.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Reference"
+            }
+          },
+          {
+            "id": "46020d1a438dc85c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef74632c7d4df5e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "57d0ae29b5957c12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reference.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Reference"
+            }
+          },
+          {
+            "id": "b68e8d226bd57890",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 583.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "bases:Create new base": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9cbc93d6f52ef149",
+  "lastOpenFiles": [
+    "1 Letnik/ARS/lovro ars.md",
+    "1 Letnik/ARS/ARS Cheat Sheet.md",
+    "1 Letnik/ARS/ARS.md",
+    "1 Letnik/ARS/Arhitektura računalniških sistemov.md",
+    "1 Letnik/ARS/AI ARS.md",
+    "2 Letnik/Kombinatorika/Za ponavljanje.md",
+    "2 Letnik/Računalniške komunkacije/Uvod.md",
+    "2 Letnik/Računalniške komunkacije/Fizična plast -todo.md",
+    "2 Letnik/Računalniške komunkacije/Povezovna plast -todo.md",
+    "2 Letnik/Računalniške komunkacije/Omrežna plast -todo.md",
+    "2 Letnik/Računalniške komunkacije/Transportna plast.md",
+    "2 Letnik/Računalniške komunkacije/Aplikacijska plast.md",
+    "2 Letnik/Računalniške komunkacije/Kriptografija in varnost.md",
+    "2 Letnik/Računalniške komunkacije/ECDHE.md",
+    "2 Letnik/Algoritmi in podatkovne strukt. 2/CheetSheet.md",
+    "2 Letnik/Algoritmi in podatkovne strukt. 2/temp.md",
+    "2 Letnik/Analiza 3/Sources/ProfZapiski/Dvojni integral 1 2.pdf",
+    "2 Letnik/Analiza 3/Sources/ProfZapiski/Kompleksna 2.pdf",
+    "2 Letnik/Analiza 3/Sources/Analiza 3.pdf",
+    "Personal/Minecraft Modding/Adding an item or block.md",
+    "Personal/Java/Method reference.md",
+    "Personal/Java/Functional interfaces.md",
+    "Personal/Minecraft Modding/Creative Tab Events.md",
+    "Personal/Design Patterns/Observer pattern.md",
+    "Personal/Minecraft Modding",
+    "Personal/Design Patterns/Builder pattern.md",
+    "Personal/Design Patterns/Decorator pattern.md",
+    "Personal/Design Patterns/Abstract Factory Method.md",
+    "Personal/Design Patterns",
+    "Personal/Da ne umrem.md",
+    "Personal/Java",
+    "Personal/Git/Git internals.md",
+    "_pasted_images/Pasted image 20260627183446.png",
+    "_pasted_images/Pasted image 20260623163825.png",
+    "_pasted_images/Pasted image 20260615124043.png",
+    "_pasted_images/Pasted image 20260614234935.png",
+    "_pasted_images/Pasted image 20260614234146.png",
+    "_pasted_images/Pasted image 20260614234137.png",
+    "_pasted_images/Pasted image 20260613174229.png",
+    "_pasted_images/Pasted image 20260613172031.png",
+    "2 Letnik/Algoritmi in podatkovne strukt. 2/Sources/Introduction.to.Algorithms.4th.Edition.2022.4.pdf",
+    "_pasted_images/Pasted image 20260613160210.png",
+    "_pasted_images/Pasted image 20260613124431.png",
+    "2 Letnik/Algoritmi in podatkovne strukt. 2/Sources/first part competitive programming by steven & felix halim.pdf",
+    "2 Letnik/Algoritmi in podatkovne strukt. 2/Sources/Unconfirmed 995254.crdownload",
+    "2 Letnik/Algoritmi in podatkovne strukt. 2/Sources/AlgorithmsStringsTreesSequences.pdf"
+  ]
+}
